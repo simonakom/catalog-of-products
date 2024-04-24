@@ -8,8 +8,7 @@ function generateStars(rating) { // rating parameter - number 0-5
 
     let dynamicHTML ="";
     const countOfFullStars = Math.floor(rating), //is the integer part (Math.floor) of the number (rating)
-
-        halfStarShouldExist = rating - countOfFullStars >= 0.5, //True/False:   //if part of the number is greater than 0.50, then 4 and a half starts are displayed
+        halfStarShouldExist = rating - countOfFullStars >= 0.5, //True/False: if part of the number is greater than 0.50, then 4 and a half starts are displayed
         emptyStarCount =  halfStarShouldExist ? 4-countOfFullStars : 5-countOfFullStars  //Bolean: if (halfStarShouldExist) is true, then 4(countOfFullStars), otherwise if half star is not added then from 5-(countOfFullStars)
 
     //add stars to dynamicHTML
