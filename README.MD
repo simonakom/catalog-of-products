@@ -4,3 +4,4 @@ This project is about creating responsive catalog of products: assigning a varia
 
 <h4>🔹 Catalog of products sample - <a href="https://simonakom.github.io/dom-manipulation/products.html" style="font-size:small;">View</a><h4>
 
+
