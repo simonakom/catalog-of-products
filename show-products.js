@@ -25,7 +25,7 @@ function showProducts() {
 		dynamicHTML += 
         //Math.round- fill number
         //toFixed(2) - 2 numbers after coma
-        `<hr />
+        `<hr/>
         <div class="product">
             <div class="product-image">
                 <span class="discount">-${Math.round(product.discountPercentage)}%</span>
