@@ -1,4 +1,4 @@
-# <span><img src="./images/reading.png" alt=catalog style="height: 1em; vertical-align: middle;"></span> Catalog of products 
+# <span><img src="./images/reading.png" alt=catalog style="height: 1em;"></span> Catalog of products 
 
 This project is about creating responsive catalog of products: assigning a variable to given <a href="https://pastebin.com/YSxxdTTH" style="font-size:small;">object</a> and placing it into the code by using javascript, bootstrap, css.
 
